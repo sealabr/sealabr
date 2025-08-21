@@ -1,1 +1,1 @@
-![descrição](intro_v1.gif)
+![descrição](intro_v2.gif)
